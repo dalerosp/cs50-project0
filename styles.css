@@ -1,0 +1,27 @@
+#timerclock {
+  color: lightblue;
+  font-size: 500%;
+}
+
+.clock_button {
+  width: 50px;
+  height: 50px;
+}
+
+.status_on {
+  opacity: 1.0;
+}
+
+.status_off {
+  opacity: 0.4;
+}
+
+.status_off:hover {
+  opacity: 1.0
+}
+
+ol {
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
